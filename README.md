@@ -9,7 +9,6 @@
 
 <h1 align="center">Some dreams can seem too big for small minds!</h1>
 
-![READMEGifFish(2)](https://user-images.githubusercontent.com/98177999/188261417-59a92f59-241b-439f-894e-48e0d7b34a71.gif)
 
 
 
