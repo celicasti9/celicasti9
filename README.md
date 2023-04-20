@@ -1,6 +1,41 @@
-- 👋 Hi, my name is Celiel Castillo
-- 👀 I’m interested in getting an intership in the tech industry. 
-- 🌱 I’m currently learning JavaScript, Linux, HTML/CSS.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamilavila&label=Profile%20views&color=296350&style=flat" alt="Celiel Castillo" /> </p>
+
+<h1 align="center">- 👋 Hi, my name is Celiel Castillo</h1>
+
+<h3 align="center"> <a href="mailto:celiel13@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
+<a href='#'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
+
+
+
+<h1 align="center">Some dreams can seem too big for small minds!</h1>
+
+![READMEGifFish(2)](https://user-images.githubusercontent.com/98177999/188261417-59a92f59-241b-439f-894e-48e0d7b34a71.gif)
+
+
+
+# Welcome to my Github!
+
+
+<a><img height="165px" img align="center" alt="Celiel Castillo Stats" src="https://github-readme-stats.vercel.app/api?username=celicasti9&show_icons=true&theme=chartreuse-dark" />
+</a><a><img height="165px" img align="center" alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celicasti9&layout=compact&hide=perl&theme=chartreuse-dark" /></a>
+
+
+Some tools & languages that I manage are: 
+
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+
+*Here your find my school repos and some other projects that I work on my own*
+
+
+# Some of my contributions
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celicasti9&" alt="Celiel Castillo" /></p>
+
+# Other stuff
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celicasti9" alt="Celiel Castillo" /></a> </p>
+
+
+- 👀 I’m interested in getting a position in the tech industry. 
+- 🌱 I’m currently learning C, JavaScript, Linux, HTML/CSS and Python.
 
 
 <!---
