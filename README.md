@@ -28,7 +28,6 @@ Some tools & languages I manage are:
 <a href="https://linkedin.com/in/celiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csoriano2832" height="30" width="40" /></a>
 </p>
 
-*Here you'll find my school repos and some other projects that I work on my own*
 
 
 # Some of my contributions
