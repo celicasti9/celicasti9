@@ -39,7 +39,7 @@ Some tools & languages I manage are:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celicasti9" alt="Celiel Castillo" /></a> </p>
 
 
-- 👀 I’m interested in getting a position in the tech industry. 
+- 👀 I’m interested in getting a position as a Junior Developer and eventually becoming a Blockchain Developer. 
 - 🌱 I’m currently learning C, JavaScript, Linux, HTML/CSS and Python.
 
 
