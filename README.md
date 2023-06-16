@@ -40,7 +40,7 @@ Some tools & languages I manage are:
 
 
 - 👀 I’m interested in getting a position as a Junior Developer and eventually becoming a Blockchain Developer. 
-- 🌱 I’m currently learning C, JavaScript, Linux, HTML/CSS and Python.
+- 🌱 I’m currently learning C, JavaScript, Rust, and Python.
 
 
 <!---
