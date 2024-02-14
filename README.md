@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamilavila&label=Profile%20views&color=296350&style=flat" alt="Celiel Castillo" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamilavila&label=Profile%20views&color=296350&style=flat" alt="Celiel Castillo" /> </p>-->
 
 <h1 align="center">- 👋 Hi, my name is Celiel Castillo</h1>
 
@@ -40,7 +40,7 @@ Some tools & languages I manage are:
 
 
 - 👀 I’m interested in getting a position as a Junior Developer and eventually becoming a Blockchain Developer. 
-- 🌱 I’m currently learning C, JavaScript, Rust, and Python.
+- 🌱 I’m currently learning C, JavaScript and Solidity.
 
 
 <!---
